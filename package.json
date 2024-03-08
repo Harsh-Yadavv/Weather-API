@@ -1,0 +1,16 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "Weather API use learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janardan Thapaliya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  }
+}
